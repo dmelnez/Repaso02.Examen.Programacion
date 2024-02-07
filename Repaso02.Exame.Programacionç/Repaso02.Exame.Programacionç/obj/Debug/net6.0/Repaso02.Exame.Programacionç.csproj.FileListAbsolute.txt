@@ -1,0 +1,14 @@
+C:\Users\dmelnez\Desktop\Programacion\Repaso02.Exame.Programacionç\Repaso02.Exame.Programacionç\bin\Debug\net6.0\Repaso02.Exame.Programacionç.exe
+C:\Users\dmelnez\Desktop\Programacion\Repaso02.Exame.Programacionç\Repaso02.Exame.Programacionç\bin\Debug\net6.0\Repaso02.Exame.Programacionç.deps.json
+C:\Users\dmelnez\Desktop\Programacion\Repaso02.Exame.Programacionç\Repaso02.Exame.Programacionç\bin\Debug\net6.0\Repaso02.Exame.Programacionç.runtimeconfig.json
+C:\Users\dmelnez\Desktop\Programacion\Repaso02.Exame.Programacionç\Repaso02.Exame.Programacionç\bin\Debug\net6.0\Repaso02.Exame.Programacionç.dll
+C:\Users\dmelnez\Desktop\Programacion\Repaso02.Exame.Programacionç\Repaso02.Exame.Programacionç\bin\Debug\net6.0\Repaso02.Exame.Programacionç.pdb
+C:\Users\dmelnez\Desktop\Programacion\Repaso02.Exame.Programacionç\Repaso02.Exame.Programacionç\obj\Debug\net6.0\Repaso02.Exame.Programacionç.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmelnez\Desktop\Programacion\Repaso02.Exame.Programacionç\Repaso02.Exame.Programacionç\obj\Debug\net6.0\Repaso02.Exame.Programacionç.AssemblyInfoInputs.cache
+C:\Users\dmelnez\Desktop\Programacion\Repaso02.Exame.Programacionç\Repaso02.Exame.Programacionç\obj\Debug\net6.0\Repaso02.Exame.Programacionç.AssemblyInfo.cs
+C:\Users\dmelnez\Desktop\Programacion\Repaso02.Exame.Programacionç\Repaso02.Exame.Programacionç\obj\Debug\net6.0\Repaso02.Exame.Programacionç.csproj.CoreCompileInputs.cache
+C:\Users\dmelnez\Desktop\Programacion\Repaso02.Exame.Programacionç\Repaso02.Exame.Programacionç\obj\Debug\net6.0\Repaso02.Exame.Programacionç.dll
+C:\Users\dmelnez\Desktop\Programacion\Repaso02.Exame.Programacionç\Repaso02.Exame.Programacionç\obj\Debug\net6.0\refint\Repaso02.Exame.Programacionç.dll
+C:\Users\dmelnez\Desktop\Programacion\Repaso02.Exame.Programacionç\Repaso02.Exame.Programacionç\obj\Debug\net6.0\Repaso02.Exame.Programacionç.pdb
+C:\Users\dmelnez\Desktop\Programacion\Repaso02.Exame.Programacionç\Repaso02.Exame.Programacionç\obj\Debug\net6.0\Repaso02.Exame.Programacionç.genruntimeconfig.cache
+C:\Users\dmelnez\Desktop\Programacion\Repaso02.Exame.Programacionç\Repaso02.Exame.Programacionç\obj\Debug\net6.0\ref\Repaso02.Exame.Programacionç.dll
